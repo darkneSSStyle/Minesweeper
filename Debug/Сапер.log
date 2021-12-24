@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\projects\сапер\source.cpp(97): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\projects\сапер\source.cpp(255): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+d:\projects\сапер\source.cpp(297): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Сапер.vcxproj -> D:\Projects\Сапер\Debug\Сапер.exe
